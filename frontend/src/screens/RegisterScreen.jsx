@@ -119,6 +119,7 @@ const RegisterScreen = () => {
         </Row>
       
     </FormContainer>
+    
   )
 }
 
