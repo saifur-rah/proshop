@@ -4,7 +4,7 @@ ProShop Ecommerce Website
 
 Welcome to ProShop, your ultimate destination for an unparalleled online shopping experience. This project showcases the synergy of Node.js, MongoDB, React, Express, and Git to create a robust and user-friendly ecommerce website.
 
-🛍️ Explore the website: www.proshop.com
+🛍️ Explore the website: https://proshopretry3.vercel.app/
 
 Tech Stack
 Frontend: React
